@@ -3,5 +3,6 @@
 
 
 -Create mysql database
+-upload php_login.sql   
 -change function config
 -test user: orahv pass: password
